@@ -13,8 +13,8 @@
 <br/>
 
 [![Game Portfolio](https://img.shields.io/badge/Game_Portfolio-z4z.studio-FF6B6B?style=for-the-badge)](https://z4z.studio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-nascimento-b97609279/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnmto@gmail.com)
 
 </div>
 
@@ -236,40 +236,6 @@ As part of my role at CRRT (Centro de Recondicionamento de Computadores) at UEMG
 - Sustainable technology practices within academic environments
 
 These initiatives combine technical expertise with environmental responsibility, demonstrating that technology development and sustainability can work together to create positive social impact.
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=matheusnmto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusnmto&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnmto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusnmto&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" />
-
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=matheusnmto&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Profile Analytics
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/matheusnmto/count.svg)
-
-</div>
 
 ---
 
