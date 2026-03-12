@@ -13,7 +13,7 @@
 <br/>
 
 [![Game Portfolio](https://img.shields.io/badge/Game_Portfolio-z4z.studio-FF6B6B?style=for-the-badge)](https://z4z.studio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-nascimento-b97609279/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-nascimento-b97609279/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnmto@gmail.com)
 
 </div>
@@ -126,56 +126,6 @@ Complete payment solution project featuring comprehensive branding, logo design,
 - Payment flow optimization
 
 `Next.js` `Design` `Fintech` `Payment`
-
-</td>
-</tr>
-</table>
-
----
-
-### Web Development Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### FaceFut
-**Soccer Sports Platform**
-
-Comprehensive sports platform combining branding, web development, and AI agent integration. Features real-time sports analytics and intelligent data processing.
-
-`Next.js` `AI Agents` `Sports Analytics`
-
-</td>
-<td width="50%">
-
-#### Restorant
-**SaaS Restaurant Management System**
-
-Full-stack restaurant management solution built to optimize family business operations. Complete system for inventory, orders, and customer management.
-
-`Node.js` `MySQL` `SaaS` `Management`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### Farah
-**Arabian Restaurant Landing Page**
-
-Professional landing page for family Arabian restaurant featuring elegant design, responsive layout, and optimized user experience.
-
-`Next.js` `UI/UX` `Responsive Design`
-
-</td>
-<td width="50%">
-
-#### Additional Projects
-
-Various automation scripts, AI integrations, and backend solutions developed for process optimization and workflow improvement.
-
-`Automation` `Backend` `Integration`
 
 </td>
 </tr>
