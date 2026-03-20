@@ -6,14 +6,14 @@
 
 <br/>
 
-### Junior Back-End Developer @ CRRT - UEMG | Information Systems Student
+### Back-End Developer | Information Systems Student
 
 *Building efficient systems through automation and intelligent integrations*
 
 <br/>
 
 [![Game Portfolio](https://img.shields.io/badge/Game_Portfolio-z4z.studio-FF6B6B?style=for-the-badge)](https://z4z.studio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-nascimento-b97609279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-farah-b97609279/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnmto@gmail.com)
 
 </div>
@@ -24,13 +24,12 @@
 
 ```typescript
 const matheus = {
-    location: "Passos, Minas Gerais, Brazil",
-    role: "Junior Back-End Developer",
-    workplace: "CRRT - State University of Minas Gerais (UEMG)",
-    education: "Information Systems @ UEMG (Penultimate Year)",
+    location: "Brazil",
+    role: "Developer",
+    education: "Information Systems @ UEMG",
     specialization: ["Process Automation", "AI Integrations", "Workflow Optimization"],
-    focus: ["Sustainability", "E-waste Management", "Game Development"],
-    currentProjects: ["FaceFut", "Restorant", "FreePago", "Farah"]
+    focus: ["Sustainability", "Automation", "Game Development"],
+    currentProjects: ["FreePago"]
 };
 ```
 
@@ -38,7 +37,7 @@ const matheus = {
 
 ## Professional Experience
 
-### Junior Back-End Developer | CRRT - UEMG
+### Back-End Developer | CRRT - UEMG
 **Centro de Recondicionamento de Computadores | State University of Minas Gerais**
 
 - Developing backend solutions using Node.js, C#, Java, and Golang
