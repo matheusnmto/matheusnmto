@@ -113,7 +113,7 @@ Specialized in building complex automation workflows using n8n, connecting multi
 </td>
 <td width="50%">
 
-#### FreePago
+#### [FreePago](https://freepago.com.br)
 **Payment Solution Platform**
 
 Complete payment solution project featuring comprehensive branding, logo design, and landing page development. Modern fintech interface with focus on user experience and conversion optimization.
@@ -126,7 +126,6 @@ Complete payment solution project featuring comprehensive branding, logo design,
 
 `Next.js` `Design` `Fintech` `Payment`
 
-freepago.com.br
 
 </td>
 </tr>
