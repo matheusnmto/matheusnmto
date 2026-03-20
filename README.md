@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matheus
+# Matheus Farah
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Back-End+Developer;Automation+Specialist;Game+Developer;AI+Integration+Expert" alt="Typing SVG" />
 
@@ -175,16 +175,16 @@ Narrative-focused game developed during game jam. Collaborative project emphasiz
 
 ### E-waste Management & Digital Inclusion
 
-As part of my role at CRRT (Centro de Recondicionamento de Computadores) at UEMG, I actively contribute to sustainability initiatives focused on electronic waste management and digital inclusion:
+During my internship at CRRT (Centro de Recondicionamento de Computadores) at UEMG, I gained valuable experience in sustainability initiatives focused on electronic waste management and digital inclusion. This experience shaped my understanding of technology's environmental responsibility:
 
-**Key Initiatives:**
-- Computer reconditioning and refurbishment programs
+**Key Learnings:**
+- Computer reconditioning and refurbishment methodologies
 - E-waste collection campaigns and proper disposal education
 - Environmental awareness programs for responsible technology use
-- Digital inclusion through reconditioned technology distribution
-- Sustainable technology practices within academic environments
+- Digital inclusion strategies through reconditioned technology distribution
+- Sustainable technology practices within academic and professional environments
 
-These initiatives combine technical expertise with environmental responsibility, demonstrating that technology development and sustainability can work together to create positive social impact.
+These experiences taught me that technical expertise and environmental responsibility are not separate paths, but complementary approaches to creating positive social impact. This perspective continues to influence my work and project decisions.
 
 ---
 
