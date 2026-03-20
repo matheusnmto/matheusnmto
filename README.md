@@ -126,6 +126,8 @@ Complete payment solution project featuring comprehensive branding, logo design,
 
 `Next.js` `Design` `Fintech` `Payment`
 
+freepago.com.br
+
 </td>
 </tr>
 </table>
