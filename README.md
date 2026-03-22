@@ -2,11 +2,9 @@
 
 # Matheus Farah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=1D9E75&center=true&vCenter=true&width=600&lines=Back-End+Developer+%7C+AI+Integration+%7C+Automation" alt="Typing SVG" />
-
+### Back-End Developer · AI Integration · Automation
 **Information Systems @ UEMG · Brazil**
 
-[![Portfolio](https://img.shields.io/badge/Game_Portfolio-z4z.studio-0a0f0c?style=for-the-badge)](https://z4z.studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-farah-b97609279/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnmto@gmail.com)
 
@@ -16,20 +14,7 @@
 
 ## About
 
-Back-end developer focused on process automation, AI integration, and workflow optimization. Currently working at CRRT (Centro de Recondicionamento de Computadores) at UEMG, building internal systems and automation pipelines. Also studying Information Systems and shipping side projects at the intersection of tooling and knowledge management.
-
----
-
-## Experience
-
-### Back-End Developer — CRRT · UEMG
-*Centro de Recondicionamento de Computadores | State University of Minas Gerais*
-
-- Building backend systems in Node.js, C#, Java, and Go
-- Designing automation workflows with n8n for internal processes
-- Integrating AI capabilities into organizational systems
-- Managing and optimizing MySQL databases
-- Contributing to e-waste collection and digital inclusion initiatives
+Back-end developer focused on process automation, AI integration, and workflow optimization. Building tools at the intersection of systems design and knowledge management — from payment infrastructure for the hospitality industry to local AI daemons for personal knowledge bases.
 
 ---
 
@@ -63,40 +48,42 @@ Back-end developer focused on process automation, AI integration, and workflow o
 ## Projects
 
 ### Atropos
+
 **Knowledge decay engine for Obsidian vaults.**
 
 A local desktop daemon that applies programmed entropy to Markdown files based on inactivity. Notes that are not revisited lose their graph connections, get disconnected from the knowledge network, and are eventually compressed by AI into a single archival sentence — while the original is always preserved.
 
 - Three-phase decay cycle: Drought → Disconnection → Dissolution
 - Mandatory Git snapshot before any destructive operation
-- Multi-provider AI compression (Google Gemini, Anthropic Claude)
-- Optional local semantic connections via Ollama + nomic-embed-text
-- Interactive D3.js force graph with decay state visualization
+- Multi-provider AI compression via Google Gemini and Anthropic Claude
+- Optional local semantic connections via Ollama and nomic-embed-text
+- Interactive D3.js force graph with per-node decay state visualization
 - Cross-device sync via Git remote with automatic conflict resolution
-- Built with Node.js + Electron, runs as a background daemon
+- Built with Node.js and Electron, runs as a background system tray daemon
 
-[![Atropos](https://img.shields.io/badge/View_Repository-0a0f0c?style=for-the-badge)](https://github.com/matheusnmto/atropos)
+[![View Repository](https://img.shields.io/badge/View_Repository-0a0f0c?style=for-the-badge)](https://github.com/matheusnmto/atropos)
 
 ---
 
 ### FreePago
-**Payment solution platform.**
 
-Complete payment solution featuring branding, landing page, and UI/UX design. Built with Next.js and Tailwind CSS with focus on conversion optimization.
+**Service charge and freelancer payment management for restaurants and bars.**
 
-[![FreePago](https://img.shields.io/badge/freepago.com.br-0a0f0c?style=for-the-badge)](https://freepago.com.br)
+A full-stack platform built entirely from scratch to solve a specific friction point in the Brazilian hospitality industry — the 10% service charge. FreePago automates the calculation, distribution, and tracking of service fees across staff, and extends to full freelancer payment management with AI-powered analytics and visual dashboards.
+
+- Automated 10% service charge calculation and distribution per shift and staff member
+- Freelancer payment management with configurable rules and scheduling
+- AI-powered insights for revenue trends, staffing costs, and payout forecasting
+- Dashboard with charts covering service charge history, individual earnings, and freelancer balances
+- Built for restaurant and bar owners who need precision and transparency in variable staff compensation
+
+[![freepago.com.br](https://img.shields.io/badge/freepago.com.br-0a0f0c?style=for-the-badge)](https://freepago.com.br)
 
 ---
 
 ## Game Development
 
 I also write GML and ship games independently. Full portfolio at [z4z.studio](https://z4z.studio).
-
----
-
-## Sustainability
-
-My work at CRRT introduced me to e-waste management, computer reconditioning, and digital inclusion. That experience shapes how I think about building software — with an awareness that technical decisions carry environmental and social weight.
 
 ---
 
