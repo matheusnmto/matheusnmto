@@ -47,3 +47,6 @@ I also write GML and ship games independently. Full portfolio at [z4z.studio](ht
 Open to collaborations in automation, AI integration, and backend development. Reach out at [contato@ayatsistemas.com](mailto:contato@ayatsistemas.com).
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=120&section=footer" width="100%"/>
