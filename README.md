@@ -5,7 +5,8 @@
 ### Founder of Ayat · Back-End Developer · AI Integration · Automation
 **Information Systems @ UEMG · Brazil**
 
-[![Ayat](https://img.shields.io/badge/ayatsistemas.com-0a0f0c?style=for-the-badge)](https://ayatsistemas.com)
+[![Ayat](https://raw.githubusercontent.com/matheusvfarah/matheusvfarah/main/ayat.png)](https://ayatsistemas.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-farah-b97609279/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnmto@gmail.com)
 
