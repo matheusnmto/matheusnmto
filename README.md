@@ -5,21 +5,20 @@
 ### Founder of Ayat · Back-End Developer · AI Integration · Automation
 **Information Systems @ UEMG · Brazil**
 
-[![Ayat](https://img.shields.io/badge/ayatsistemas.com-0a0f0c?style=for-the-badge)](https://ayatsistemas.com)
+<a href="https://ayatsistemas.com">
+  <img src="https://raw.githubusercontent.com/matheusvfarah/matheusvfarah/main/ayat.png" height="28" />
+</a>
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-farah-b97609279/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnmto@gmail.com)
 
 </div>
 
----
-
 ## About
 
-I'm the founder of **[Ayat](https://ayatsistemas.com)**, a software house built around the idea that software should solve real problems — with careful design, modern technology, and a focus on results. We build web applications, APIs, internal systems, and mobile apps from scratch, working close to the problem to make sure the solution makes sense both technically and strategically.
+I'm the founder of **[Ayat](https://ayatsistemas.com)**, a software house built around the idea that software should solve real problems, with careful design, modern technology, and a focus on results. We build web applications, APIs, internal systems, and mobile apps from scratch, working close to the problem to make sure the solution makes sense both technically and strategically.
 
 Outside of Ayat, I work on personal projects at the intersection of automation, AI integration, and knowledge management.
-
----
 
 ## Ayat
 
@@ -33,7 +32,9 @@ Outside of Ayat, I work on personal projects at the intersection of automation, 
 
 **Bolão 2026** — Platform for creating World Cup prediction pools via invite code, with pre-kickoff score guesses and a real-time leaderboard.
 
----
+**Atropos** — A local desktop daemon that applies programmed entropy to Obsidian vaults. Notes that are not revisited lose their graph connections and are eventually compressed by AI into a single archival sentence, while the original is always preserved. Three-phase decay cycle: Drought, Disconnection, and Dissolution. Built with Node.js and Electron, with multi-provider AI compression via Google Gemini and Claude, optional local semantic connections via Ollama, and an interactive D3.js force graph with per-node decay state visualization.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-0a0f0c?style=for-the-badge)](https://github.com/matheusnmto/atropos)
 
 ## Stack
 
@@ -60,21 +61,9 @@ Outside of Ayat, I work on personal projects at the intersection of automation, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
----
-
-## Personal Projects
-
-**Atropos** — A local desktop daemon that applies programmed entropy to Obsidian vaults. Notes that are not revisited lose their graph connections and are eventually compressed by AI into a single archival sentence, while the original is always preserved. Three-phase decay cycle: Drought, Disconnection, and Dissolution. Built with Node.js and Electron, with multi-provider AI compression via Google Gemini and Claude, optional local semantic connections via Ollama, and an interactive D3.js force graph with per-node decay state visualization.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-0a0f0c?style=for-the-badge)](https://github.com/matheusnmto/atropos)
-
----
-
 ## Game Development
 
 I also write GML and ship games independently. Full portfolio at [z4z.studio](https://z4z.studio).
-
----
 
 <div align="center">
 
