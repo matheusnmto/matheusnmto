@@ -38,15 +38,4 @@ I'm the founder of **[Ayat](https://ayatsistemas.com)**, a software house focuse
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-## Game Development
-
-I also write GML and ship games independently. Full portfolio at [z4z.studio](https://z4z.studio).
-
-<div align="center">
-
-Open to collaborations in automation, AI integration, and backend development. Reach out at [contato@ayatsistemas.com](mailto:contato@ayatsistemas.com).
-
-</div>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=120&section=footer" width="100%"/>
