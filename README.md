@@ -2,9 +2,10 @@
 
 # Matheus Farah
 
-### Back-End Developer · AI Integration · Automation
+### Founder of Ayat · Back-End Developer · AI Integration · Automation
 **Information Systems @ UEMG · Brazil**
 
+[![Ayat](https://img.shields.io/badge/ayatsistemas.com-0a0f0c?style=for-the-badge)](https://ayatsistemas.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-farah-b97609279/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnmto@gmail.com)
 
@@ -14,7 +15,23 @@
 
 ## About
 
-Back-end developer focused on process automation, AI integration, and workflow optimization. Building tools at the intersection of systems design and knowledge management — from payment infrastructure for the hospitality industry to local AI daemons for personal knowledge bases.
+I'm the founder of **[Ayat](https://ayatsistemas.com)**, a software house built around the idea that software should solve real problems — with careful design, modern technology, and a focus on results. We build web applications, APIs, internal systems, and mobile apps from scratch, working close to the problem to make sure the solution makes sense both technically and strategically.
+
+Outside of Ayat, I work on personal projects at the intersection of automation, AI integration, and knowledge management.
+
+---
+
+## Ayat
+
+**Software as a transformation tool.**
+
+[Ayat](https://ayatsistemas.com) is a software house I founded to develop digital systems end-to-end. We work closely with clients to understand the problem first, then build solutions that deliver real results.
+
+**Products shipped under Ayat:**
+
+**FreePago** — SaaS platform for tip and daily-rate management in food service. Automates service charge calculation, distribution, and staff payment tracking. Shift closing in under three minutes. Live at [freepago.com.br](https://freepago.com.br).
+
+**Bolão 2026** — Platform for creating World Cup prediction pools via invite code, with pre-kickoff score guesses and a real-time leaderboard.
 
 ---
 
@@ -45,39 +62,11 @@ Back-end developer focused on process automation, AI integration, and workflow o
 
 ---
 
-## Projects
+## Personal Projects
 
-### Atropos
-
-**Knowledge decay engine for Obsidian vaults.**
-
-A local desktop daemon that applies programmed entropy to Markdown files based on inactivity. Notes that are not revisited lose their graph connections, get disconnected from the knowledge network, and are eventually compressed by AI into a single archival sentence — while the original is always preserved.
-
-- Three-phase decay cycle: Drought → Disconnection → Dissolution
-- Mandatory Git snapshot before any destructive operation
-- Multi-provider AI compression via Google Gemini and Anthropic Claude
-- Optional local semantic connections via Ollama and nomic-embed-text
-- Interactive D3.js force graph with per-node decay state visualization
-- Cross-device sync via Git remote with automatic conflict resolution
-- Built with Node.js and Electron, runs as a background system tray daemon
+**Atropos** — A local desktop daemon that applies programmed entropy to Obsidian vaults. Notes that are not revisited lose their graph connections and are eventually compressed by AI into a single archival sentence, while the original is always preserved. Three-phase decay cycle: Drought, Disconnection, and Dissolution. Built with Node.js and Electron, with multi-provider AI compression via Google Gemini and Claude, optional local semantic connections via Ollama, and an interactive D3.js force graph with per-node decay state visualization.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-0a0f0c?style=for-the-badge)](https://github.com/matheusnmto/atropos)
-
----
-
-### FreePago
-
-**Service charge and freelancer payment management for restaurants and bars.**
-
-A full-stack platform built entirely from scratch to solve a specific friction point in the Brazilian hospitality industry — the 10% service charge. FreePago automates the calculation, distribution, and tracking of service fees across staff, and extends to full freelancer payment management with AI-powered analytics and visual dashboards.
-
-- Automated 10% service charge calculation and distribution per shift and staff member
-- Freelancer payment management with configurable rules and scheduling
-- AI-powered insights for revenue trends, staffing costs, and payout forecasting
-- Dashboard with charts covering service charge history, individual earnings, and freelancer balances
-- Built for restaurant and bar owners who need precision and transparency in variable staff compensation
-
-[![freepago.com.br](https://img.shields.io/badge/freepago.com.br-0a0f0c?style=for-the-badge)](https://freepago.com.br)
 
 ---
 
@@ -89,6 +78,6 @@ I also write GML and ship games independently. Full portfolio at [z4z.studio](ht
 
 <div align="center">
 
-Open to collaborations in automation, AI integration, and backend development.
+Open to collaborations in automation, AI integration, and backend development. Reach out at [contato@ayatsistemas.com](mailto:contato@ayatsistemas.com).
 
 </div>
